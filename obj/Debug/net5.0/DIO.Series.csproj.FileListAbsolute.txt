@@ -1,0 +1,16 @@
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Faculdade\DIO\CRUD de filmes\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
